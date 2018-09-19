@@ -1,0 +1,18 @@
+body { padding-top: 70px;
+      
+}
+.linhacinza {
+    background: black;
+}
+.bg-color-paddin p {
+    padding: 15px;
+}
+.footer {
+    position:absolute;
+    bottom:0;
+    width:100%;
+    
+}
+
+
+        
